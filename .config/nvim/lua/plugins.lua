@@ -69,6 +69,8 @@ vim.pack.add({
 	},
 })
 
+-- i want to get cc, a terminal opener and update my status line this is todo
+
 -- Put require(plugin.lua) here for each plugin, so we can load the configs for each plugin in particualt
 
 require("plugin_confs.lsp.setup")
