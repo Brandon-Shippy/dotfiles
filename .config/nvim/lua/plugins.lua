@@ -51,7 +51,7 @@ vim.pack.add({
 		src = "https://github.com/akinsho/bufferline.nvim",
 		version = "v4.9.1",
 	},
-	
+
 	-- git stuff
 	{
 		src = "https://github.com/lewis6991/gitsigns.nvim",
@@ -82,3 +82,4 @@ require("plugin_confs.gitsigns")
 require("plugin_confs.fugitive")
 require("plugin_confs.blink")
 require("plugin_confs.colorscheme")
+require("plugin_confs.lsp.diagnostics")
