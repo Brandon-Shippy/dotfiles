@@ -1,0 +1,15 @@
+vim.opt.tabstop = 4
+vim.opt.softtabstop = 4
+vim.opt.termguicolors = true
+vim.opt.encoding = "utf-8"
+vim.opt.wrap = false
+vim.opt.autoread = true
+vim.opt.smartcase = true
+vim.opt.autoindent = true
+vim.opt.shiftwidth = 4
+vim.opt.ignorecase = true
+vim.opt.number = true
+vim.opt.cursorline = true
+vim.opt.signcolumn = "yes"
+vim.opt.splitright = true
+vim.opt.clipboard = "unnamedplus"
