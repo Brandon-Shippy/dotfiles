@@ -13,3 +13,4 @@ vim.opt.cursorline = true
 vim.opt.signcolumn = "yes"
 vim.opt.splitright = true
 vim.opt.clipboard = "unnamedplus"
+vim.opt.scrolloff = 8

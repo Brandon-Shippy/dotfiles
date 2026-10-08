@@ -67,6 +67,11 @@ vim.pack.add({
 		src = "https://github.com/Saghen/blink.cmp",
 		version = "v1.10.2",
 	},
+
+	-- github prs
+	{
+		src = "https://github.com/pwntester/octo.nvim",
+	},
 })
 
 -- i want to get cc, a terminal opener and update my status line this is todo
@@ -83,3 +88,4 @@ require("plugin_confs.fugitive")
 require("plugin_confs.blink")
 require("plugin_confs.colorscheme")
 require("plugin_confs.lsp.diagnostics")
+require("plugin_confs.octo")

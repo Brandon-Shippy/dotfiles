@@ -49,6 +49,10 @@
       "src": "https://github.com/nvim-tree/nvim-web-devicons",
       "version": "'v0.100'"
     },
+    "octo.nvim": {
+      "rev": "af2411604b51cb4a0f3e2de50b1b7cacc2581c48",
+      "src": "https://github.com/pwntester/octo.nvim"
+    },
     "plenary.nvim": {
       "rev": "50012918b2fc8357b87cff2a7f7f0446e47da174",
       "src": "https://github.com/nvim-lua/plenary.nvim",
